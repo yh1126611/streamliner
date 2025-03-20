@@ -29,7 +29,7 @@ if [[ "$1" == "--help" ]]; then
     echo "Optional:"
     echo "-t, --type      STRING  Feature to use as locational indicator for"
     echo "                        TSS/TES [Default gene]"
-    echo "-m              INT     Maximum memory allocated to samtools sort."
+    echo "-m              INT     Maximum memory allocated for sorting process."
     echo "                        Suffix K/M/G allowed [Default 99G]"
     echo "-i, --interval  INT     Furthest distance from coordinate to be"
     echo "                        analyzed (bp) [Default 10,000]"
