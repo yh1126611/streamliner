@@ -3,11 +3,26 @@
 Streamline from assembly, annotation and raw reads to modification probability score information on transcription start/end sites (TSS/TES). Resulting output may be used as data for visualization in R.
 
 ## Installation
-
+### Conda
 streamliner can be installed via conda
 ```
 conda install yh1126::streamliner
 ```
+### Conda recipe
+Alternatively, streamliner can also be installed locally by building using conda recipe following [conda package building manual](https://docs.conda.io/projects/conda-build/en/latest/user-guide/tutorials/build-pkgs.html)
+
+* If not already installed, install conda-build:
+
+        conda install conda-build
+
+* Download [streamliner.sh](streamliner.sh), [build.sh](build.sh) and [meta.yaml](meta.yaml) and move them all under a same directory.
+* After moving to the same directory, build package.
+
+        conda build .
+
+* Install locally.
+
+        conda install --use-local/ streamliner
 
 ## Input preparation
 
