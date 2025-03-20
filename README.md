@@ -4,7 +4,8 @@ Streamline from assembly, annotation and raw reads to modification probability s
 
 ## Installation
 
-streamliner can be installed via conda by `conda install yh1126::streamliner`
+streamliner can be installed via conda
+```conda install yh1126::streamliner```
 
 ## Input preparation
 
