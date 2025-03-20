@@ -16,18 +16,19 @@ conda install yh1126::streamliner
   Example of a species information table: ![Species information table example](species_information_table_example.png?raw=true "Example of a species information table")
 
 2. Export the table consisting of information for your species to be analyzed into a tab-delimited text format. Columns are separated by tabs (\t) and rows are separated by newlines (\n). A multi-line cell with multiple links which are also separated by newlines (\n) are enclosed by double quotes (").  
-  ```
-  <Accession1>  "<Link1_1>
-  <Link1_2>
-  <Link1_3>
-  <Link1_n>"
-  <Accession2> "<Link2_1>
-  <Link2_2>
-  <Link2_3>
-  <Link2_n>"
-  ```  
+  
+  
+        <Accession1>  "<Link1_1>
+        <Link1_2>
+        <Link1_3>
+        <Link1_n>"
+        <Accession2> "<Link2_1>
+        <Link2_2>
+        <Link2_3>
+        <Link2_n>"  
+  
   Schematic diagram of a species information table in text format: ![Schematic diagram of a species table converted to text format](species_information_table_txt_format.png?raw=true "Schematic diagram of a species table converted to text format")  
-  Example of a species information table converted to a text format: ![Example of a species information table in text format](species_information_table_txt_example.png?raw=true "Example of a species information table in text format")
+Example of a species information table converted to a text format: ![Example of a species information table in text format](species_information_table_txt_example.png?raw=true "Example of a species information table in text format")
 
 ## Notes
 
