@@ -9,7 +9,7 @@ streamliner can be installed via conda
 conda install yh1126::streamliner
 ```
 ### Conda recipe
-Alternatively, streamliner can also be installed locally by building using conda recipe following [conda package building manual](https://docs.conda.io/projects/conda-build/en/latest/user-guide/tutorials/build-pkgs.html)
+Alternatively, streamliner can also be installed built locally using conda recipe following [conda package building manual](https://docs.conda.io/projects/conda-build/en/latest/user-guide/tutorials/build-pkgs.html)
 
 * If not already installed, install conda-build:
 
