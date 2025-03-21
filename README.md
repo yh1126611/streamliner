@@ -26,7 +26,7 @@ Alternatively, streamliner can also be installed built locally using conda recip
 
 ## Input preparation
 
-1. For every species you wish to analyze, create a species information table by obtaining RefSeq accession ID from NCBI and 42basepairs download links for raw PacBio HiFi reads (BAM) from GenomeArk (https://www.genomeark.org/) and parsing them into a two-column table-format file (e.g. excel sheet). Every row pertains to one species and two columns each pertain to accession ID and download links, respectively. Multiple BAM files (thus, multiple download links) may be associated with one species, in which case, they should be separated by newlines (\n) inside a single cell. ![Diagram of input preparation](input_prep_1.png?raw=true "Diagram of input preparation")  
+1. For every species you wish to analyze, create a __species information table__ by obtaining RefSeq accession ID from NCBI and 42basepairs download links for raw PacBio HiFi reads (BAM) from GenomeArk (https://www.genomeark.org/) and parsing them into a two-column table-format file (e.g. excel sheet). Every row pertains to one species and two columns each pertain to accession ID and download links, respectively. Multiple BAM files (thus, multiple download links) may be associated with one species, in which case, they should be separated by newlines (\n) inside a single cell. ![Diagram of input preparation](input_prep_1.png?raw=true "Diagram of input preparation")  
   Schematic format of a species information table: ![Species information table format](species_information_table_format.png?raw=true "Species information table format")  
   Example of a species information table: ![Species information table example](species_information_table_example.png?raw=true "Example of a species information table")
 
@@ -44,6 +44,12 @@ Alternatively, streamliner can also be installed built locally using conda recip
   
   Schematic diagram of a species information table in text format: ![Schematic diagram of a species table converted to text format](species_information_table_txt_format.png?raw=true "Schematic diagram of a species table converted to text format")  
 Example of a species information table converted to a text format: ![Example of a species information table in text format](species_information_table_txt_example.png?raw=true "Example of a species information table in text format")
+
+## Usage
+
+```
+streamliner [OPTIONS] <species_information>
+```
 
 ## Notes
 
