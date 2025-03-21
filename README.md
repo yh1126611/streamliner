@@ -16,11 +16,11 @@ Alternatively, streamliner can also be installed locally by building using conda
         conda install conda-build
 
 * Download [streamliner.sh](streamliner.sh), [build.sh](build.sh) and [meta.yaml](meta.yaml) and move them all under a same directory.
-* After moving to the same directory, build package.
+* After moving to the same directory, build package:
 
         conda build .
 
-* Install locally.
+* Install locally:
 
         conda install --use-local streamliner
 
