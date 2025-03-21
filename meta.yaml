@@ -1,0 +1,30 @@
+package:
+  name: streamliner
+  version: 1.0.0
+  build:
+    number: 0
+    noarch: generic
+source:
+  path: .
+requirements:
+  build:
+    - bash
+  run:
+    - bash
+    - samtools
+    - bc
+    - coreutils
+    - bedtools
+    - pbtk
+    - pbjasmine
+    - pbmm2
+    - pb-cpg-tools
+    - yh1126::streamgc
+    - yh1126::streambpb
+test:
+  commands:
+    - streamgc --help
+about:
+  home: https://github.com/yh1126611/streamliner
+  license: MIT
+  summary: Streamline from assembly, annotation and raw reads to MP scores on specific sites
