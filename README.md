@@ -22,7 +22,7 @@ Alternatively, streamliner can also be installed locally by building using conda
 
 * Install locally.
 
-        conda install --use-local/ streamliner
+        conda install --use-local streamliner
 
 ## Input preparation
 
