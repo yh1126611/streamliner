@@ -43,7 +43,10 @@ Alternatively, streamliner can also be installed built locally using conda recip
         <Link2_n>"  
    Schematic diagram of a species information table in text format: ![Schematic diagram of a species table converted to text format](species_information_table_txt_format.png?raw=true "Schematic diagram of a species table converted to text format")  
    Example of a species information table converted to a text format: ![Example of a species information table in text format](species_information_table_txt_example.png?raw=true "Example of a species information table in text format")
-    [species_information.txt](species_information.txt) is a functional input to streamliner comprising GenomeArk download links to all VGP-sequenced species for which BAM files with kinetics tags exist.
+
+## Sample input
+[species_information.txt](species_information.txt) is a functional input to streamliner comprising GenomeArk download links to all VGP-sequenced species for which BAM files with kinetics tags exist.
+
 ## Usage
 
 ```
