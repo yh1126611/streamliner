@@ -9,7 +9,7 @@ streamliner can be installed via conda
 conda install yh1126::streamliner
 ```
 ### Conda recipe
-Alternatively, streamliner can also be installed built locally using conda recipe following [conda package building manual](https://docs.conda.io/projects/conda-build/en/latest/user-guide/tutorials/build-pkgs.html)
+Alternatively, streamliner can also be built locally using conda recipe following [conda package building manual](https://docs.conda.io/projects/conda-build/en/latest/user-guide/tutorials/build-pkgs.html)
 
 * If not already installed, install conda-build:
 
@@ -26,7 +26,7 @@ Alternatively, streamliner can also be installed built locally using conda recip
 
 ## Input preparation
 
-1. For every species you wish to analyze, create a __species information table__ by obtaining RefSeq accession ID from NCBI and 42basepairs download links for raw PacBio HiFi reads (BAM) from GenomeArk (https://www.genomeark.org/) and parsing them into a two-column table-format file (e.g. excel sheet). Every row pertains to one species and two columns each pertain to accession ID and download links, respectively. Multiple BAM files (thus, multiple download links) may be associated with one species, in which case, they should be separated by newlines (\n) inside a single cell. ![Diagram of input preparation](input_prep_1.png?raw=true "Diagram of input preparation")  
+1. Create a __species information table__ comprising every species you wish to analyze by obtaining their RefSeq accession ID from NCBI and 42basepairs download links for their raw PacBio HiFi reads (BAM) from GenomeArk (https://www.genomeark.org/) and parsing them into a two-column table-format file (e.g. excel sheet). Every row pertains to one species and two columns each pertain to accession ID and download links, respectively. Multiple BAM files (thus, multiple download links) may be associated with one species, in which case, they should be separated by newlines (\n) inside a single cell. ![Diagram of input preparation](input_prep_1.png?raw=true "Diagram of input preparation")  
   Schematic format of a species information table: ![Species information table format](species_information_table_format.png?raw=true "Species information table format")  
   Example of a species information table: ![Species information table example](species_information_table_example.png?raw=true "Example of a species information table")
 
