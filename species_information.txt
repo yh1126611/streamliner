@@ -1,0 +1,288 @@
+GCF_024166365.1	"https://42basepairs.com/download/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/m54306Ue_210627_165734.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/m54306Ue_210705_134503.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/m64330e_211019_195149.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/m64334e_211022_161721.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/m64334e_211024_014441.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Elephas_maximus/mEleMax1/genomic_data/pacbio_hifi/m64334e_211025_111049.hifi_reads.bam"
+GCF_030014295.1	"https://42basepairs.com/download/s3/genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/m54306Ue_220610_182929.reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/m54306Ue_220612_052556.reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/m64055e_220610_184017.reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/m64055e_220612_053542.reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Loxodonta_africana/mLoxAfr1/genomic_data/pacbio_hifi/m64330e_220603_183322.reads.bam"
+GCF_028858775.2	"https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m54329U_220226_122930.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m54329U_220304_132403.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m64076_210810_005444.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m64076_210813_021703.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m64076_210814_131501.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m64076_210816_001611.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_troglodytes/mPanTro3/genomic_data/pacbio_hifi/m64076_220303_022914.hifi_reads.bam"
+GCF_029289425.2	"https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m54329U_210509_045858.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m54329U_210510_223954.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m54329U_210512_043859.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m54329U_211104_082916.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m64076_210509_004533.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m64076_210511_192234.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m64076_210802_234415.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m64076_210804_194759.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m64076_210806_064833.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pan_paniscus/mPanPan1/genomic_data/pacbio_hifi/m64076_210807_174839.hifi_reads.bam"
+GCF_029281585.2	"https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m64076_230115_145043-bc2013.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m64076_230114_050324-bc2013.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m64076_230112_193924-bc2013.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m64076_210326_192259.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m64076_210215_140546.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m64076_210214_073735.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m64076_210213_010909.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m64076_210208_175256.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m54329U_211107_082940.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m54329U_211102_230231.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gorilla_gorilla/mGorGor1/genomic_data/pacbio_hifi/m54329U_210319_174352.hifi_reads.bam"
+GCF_028885655.2	"https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m54329U_210228_013345.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m54329U_210404_020346.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m54329U_220227_232630.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m54329U_220313_173323.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m64076_210219_011735.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m64076_210221_195503.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m64076_210223_194521.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m64076_210225_020019.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m64076_210330_204128.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m64076_220312_125202.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_abelii/mPonAbe1/genomic_data/pacbio_hifi/m64076_220313_224245.hifi_reads.bam"
+GCF_028885625.2	"https://42basepairs.com/download/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/m54329U_210506_061718.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/m54329U_220303_022849.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/m64076_210430_224715.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/m64076_210505_002126.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/m64076_210506_062052.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/m64076_210507_194603.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pongo_pygmaeus/mPonPyg2/genomic_data/pacbio_hifi/m64076_220226_122604.hifi_reads.bam"
+GCF_028878055.3	"https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m64076_211112_233105.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m64076_211111_101817.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m64076_211107_004425.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m54329U_210910_231056.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m54329U_210905_202241.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m54329U_210904_103226.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m54329U_210902_233521.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m54329U_210901_104742.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m54329U_210829_112929.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Symphalangus_syndactylus/mSymSyn1/genomic_data/pacbio_hifi/m54329U_210828_003431.hifi_reads.bam"
+GCF_043159975.1	"https://42basepairs.com/download/s3/genomeark/species/Macaca_nemestrina/mMacNem1/genomic_data/pacbio_hifi/m64055e_230428_162621.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Macaca_nemestrina/mMacNem1/genomic_data/pacbio_hifi/m64334e_230513_110349.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Macaca_nemestrina/mMacNem1/genomic_data/pacbio_hifi/m64334e_230515_062926.hifi_reads.bam"
+GCF_027406575.1	"https://42basepairs.com/download/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/m54306Ue_211211_070320.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/m64330e_211101_193651.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/m64334e_211215_195121.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/m64334e_211217_064622.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Nycticebus_coucang/mNycCou1/genomic_data/pacbio_hifi/m64334e_211218_162941.hifi_reads.bam"
+GCF_027409185.1	"https://42basepairs.com/download/s3/genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/m54306Ue_211202_201212.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/m54306Ue_211213_200140.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/m64330e_211212_152109.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Cynocephalus_volans/mCynVol1/genomic_data/pacbio_hifi/m64330e_211214_003514.hifi_reads.bam"
+GCF_947179515.1	"https://42basepairs.com/download/s3/genomeark/species/Apodemus_sylvaticus/mApoSyl1/genomic_data/pacbio_hifi/m64125e_210325_140800.ccs.bc1022_BAK8B_OA--bc1022_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Apodemus_sylvaticus/mApoSyl1/genomic_data/pacbio_hifi/m64125e_210326_141629.ccs.bc1022_BAK8B_OA--bc1022_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Apodemus_sylvaticus/mApoSyl1/genomic_data/pacbio_hifi/m64221e_210315_131002.ccs.bc1022_BAK8B_OA--bc1022_BAK8B_OA.bam"
+GCF_950005125.1	https://42basepairs.com/download/s3/genomeark/species/Chionomys_nivalis/mChiNiv1/genomic_data/pacbio_hifi/m64178e_230127_140518.ccs.bc1016_BAK8B_OA--bc1016_BAK8B_OA.bam
+GCF_030435755.1	"https://42basepairs.com/download/s3/genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/m54306Ue_220207_052626.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/m54306Ue_220711_194042.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/m64330e_220205_164102.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/m64330e_220207_033931.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Ochotona_princeps/mOchPri1/genomic_data/pacbio_hifi/m64334e_220126_070652.hifi_reads.bam"
+GCF_039906515.1	"https://42basepairs.com/download/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/m54306Ue_210813_171957.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/m54306Ue_210926_052803.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/m54306Ue_210927_162621.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/m54306Ue_211003_032512.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudorca_crassidens/mPseCra1/genomic_data/pacbio_hifi/m64055e_210925_231319.hifi_reads.bam"
+GCF_949774975.1	"https://42basepairs.com/download/s3/genomeark/species/Lagenorhynchus_albirostris/mLagAlb1/genomic_data/pacbio_hifi/m64125e_230218_235841.ccs.bc1021_BAK8B_OA--bc1021_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Lagenorhynchus_albirostris/mLagAlb1/genomic_data/pacbio_hifi/m64228e_230304_061130.ccs.bc1021_BAK8B_OA--bc1021_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Lagenorhynchus_albirostris/mLagAlb1/genomic_data/pacbio_hifi/m64228e_230305_092718.ccs.bc1021_BAK8B_OA--bc1021_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Lagenorhynchus_albirostris/mLagAlb1/genomic_data/pacbio_hifi/m64228e_230306_124321.ccs.bc1021_BAK8B_OA--bc1021_BAK8B_OA.bam"
+GCF_963455315.2	"https://42basepairs.com/download/s3/genomeark/species/Globicephala_melas/mGloMel1/genomic_data/pacbio_hifi/m64178e_230216_162826.ccs.bc1015_BAK8B_OA--bc1015_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Globicephala_melas/mGloMel1/genomic_data/pacbio_hifi/m64229e_230303_042418.ccs.bc1015_BAK8B_OA--bc1015_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Globicephala_melas/mGloMel1/genomic_data/pacbio_hifi/m64230e_230227_170309.ccs.bc1015_BAK8B_OA--bc1015_BAK8B_OA.bam"
+GCF_028021215.1	"https://42basepairs.com/download/s3/genomeark/species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/m54306Ue_220411_220734.reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/m54306Ue_220520_051743.reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/m64055e_220603_182128.reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eschrichtius_robustus/mEscRob2/genomic_data/pacbio_hifi/m64055e_220615_033108.reads.bam"
+GCF_949987535.1	"https://42basepairs.com/download/s3/genomeark/species/Balaenoptera_acutorostrata/mBalAcu1/genomic_data/pacbio_hifi/m64125e_230217_190149.ccs.bc1020_BAK8B_OA--bc1020_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Balaenoptera_acutorostrata/mBalAcu1/genomic_data/pacbio_hifi/m64228e_230228_200747.ccs.bc1020_BAK8B_OA--bc1020_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Balaenoptera_acutorostrata/mBalAcu1/genomic_data/pacbio_hifi/m64228e_230301_231814.ccs.bc1020_BAK8B_OA--bc1020_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Balaenoptera_acutorostrata/mBalAcu1/genomic_data/pacbio_hifi/m64228e_230303_023154.ccs.bc1020_BAK8B_OA--bc1020_BAK8B_OA.bam"
+GCF_025265405.1	"https://42basepairs.com/download/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/m54306Ue_210827_082921.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/m54306Ue_210911_054708.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/m54306Ue_210912_164614.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/m54306Ue_210916_192327.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/m64055e_210910_134739.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mesoplodon_densirostris/mMesDen1/genomic_data/pacbio_hifi/m64055e_210916_194025.hifi_reads.bam"
+GCF_026419965.1	"https://42basepairs.com/download/s3/genomeark/species/Kogia_breviceps/mKogBre1/genomic_data/pacbio_hifi/m54306Ue_210904_004821.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Kogia_breviceps/mKogBre1/genomic_data/pacbio_hifi/m54306Ue_210907_193601.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Kogia_breviceps/mKogBre1/genomic_data/pacbio_hifi/m54306Ue_210909_201255.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Kogia_breviceps/mKogBre1/genomic_data/pacbio_hifi/m64055e_210827_063126.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Kogia_breviceps/mKogBre1/genomic_data/pacbio_hifi/m64055e_210903_112505.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Kogia_breviceps/mKogBre1/genomic_data/pacbio_hifi/m64055e_210904_205431.hifi_reads.bam"
+GCF_028564815.1	"https://42basepairs.com/download/s3/genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/m54306Ue_210902_134931.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/m54306Ue_210924_183319.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/m54306Ue_210929_152420.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/m64055e_210626_073758.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/m64055e_210908_191022.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/m64055e_210927_151005.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/m64055e_210929_020717.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio_hifi/m64334e_211001_185602.hifi_reads.bam"
+GCF_030028045.1	"https://42basepairs.com/download/s3/genomeark/species/Hippopotamus_amphibius/mHipAmp2/genomic_data/pacbio_hifi/m54306Ue_220724_144636.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Hippopotamus_amphibius/mHipAmp2/genomic_data/pacbio_hifi/m54306Ue_220906_012259.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Hippopotamus_amphibius/mHipAmp2/genomic_data/pacbio_hifi/m64055e_220802_081650.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Hippopotamus_amphibius/mHipAmp2/genomic_data/pacbio_hifi/m64055e_220803_191412.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Hippopotamus_amphibius/mHipAmp2/genomic_data/pacbio_hifi/m64334e_221013_154157.hifi_reads.bam"
+GCF_036321535.1	"https://42basepairs.com/download/s3/genomeark/species/Camelus_dromedarius/mCamDro1/genomic_data/pacbio_hifi/m64055e_221202_183002.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Camelus_dromedarius/mCamDro1/genomic_data/pacbio_hifi/m64330e_221214_181813.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Camelus_dromedarius/mCamDro1/genomic_data/pacbio_hifi/m64330e_221216_133101.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Camelus_dromedarius/mCamDro1/genomic_data/pacbio_hifi/m64330e_230103_184133.hifi_reads.bam"
+GCF_963259705.1	https://42basepairs.com/download/s3/genomeark/species/Myotis_daubentonii/mMyoDau2/genomic_data/pacbio_hifi/m64230e_221117_234843.ccs.bc1012_BAK8A_OA--bc1012_BAK8A_OA.bam
+GCF_030435805.1	"https://42basepairs.com/download/s3/genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/m64330e_221129_145905.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/m64330e_221124_122023.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/m64330e_221122_165547.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/m64055e_221124_121331.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/m64055e_221122_165407.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Mustela_lutreola/mMusLut2/genomic_data/pacbio_hifi/m64055e_221116_160003.hifi_reads.bam"
+GCF_028018385.1	"https://42basepairs.com/download/s3/genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbio_hifi/m54306Ue_211025_041311.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbio_hifi/m54306Ue_211108_202417.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbio_hifi/m64055e_211103_054016.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Neofelis_nebulosa/mNeoNeb1/genomic_data/pacbio_hifi/m64055e_211110_175241.hifi_reads.bam"
+GCF_030020395.1	"https://42basepairs.com/download/s3/genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbio_hifi/m64055e_211101_201655.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbio_hifi/m64330e_211111_153123.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbio_hifi/m64330e_211113_005922.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Manis_pentadactyla/mManPen7/genomic_data/pacbio_hifi/m64330e_211215_200211.hifi_reads.bam"
+GCF_027595985.1	"https://42basepairs.com/download/s3/genomeark/species/Sorex_araneus/mSorAra1/genomic_data/pacbio_hifi/m64055e_210919_173337.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Sorex_araneus/mSorAra1/genomic_data/pacbio_hifi/m64055e_210921_043342.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Sorex_araneus/mSorAra1/genomic_data/pacbio_hifi/m64334e_211003_054950.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Sorex_araneus/mSorAra1/genomic_data/pacbio_hifi/m64334e_211011_143710.hifi_reads.bam"
+GCF_950295315.1	"https://42basepairs.com/download/s3/genomeark/species/Erinaceus_europaeus/mEriEur2/genomic_data/pacbio_hifi/m64094e_230307_155501.ccs.bc1017_BAK8B_OA--bc1017_BAK8B_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Erinaceus_europaeus/mEriEur2/genomic_data/pacbio_hifi/m64178e_230219_004157.ccs.bc1017_BAK8B_OA--bc1017_BAK8B_OA.bam"
+GCF_027887165.1	"https://42basepairs.com/download/s3/genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/m54306Ue_211110_071858.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/m54306Ue_211111_163748.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/m54306Ue_211113_015853.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/m64055e_211117_204835.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/m64330e_211103_063050.hifi_reads.bam
+https://42basepairs.com/download/s3/genomeark/species/Monodelphis_domestica/mMonDom1/genomic_data/pacbio_hifi/m64334e_211117_205854.hifi_reads.bam"
+GCF_028018845.1	"https://42basepairs.com/download/s3/genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbio_hifi/m54306Ue_211022_061550.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbio_hifi/m64334e_211010_034013.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbio_hifi/m64334e_211016_065650.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Melospiza_georgiana/bMelGeo1/genomic_data/pacbio_hifi/m64334e_211017_175320.hifi_reads.bam"
+GCF_027887145.1	"https://42basepairs.com/download/s3/genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/m64055e_211031_050355.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/m64055e_211108_204450.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Ammodramus_caudacutus/bAmmCau1/genomic_data/pacbio_hifi/m64055e_211113_135905.hifi_reads.bam"
+GCF_027579445.1	"https://42basepairs.com/download/s3/genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/m64334e_211108_205107.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/m64055e_211112_030115.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Ammospiza_nelsoni/bAmmNel1/genomic_data/pacbio_hifi/m64055e_211106_001217.hifi_reads.bam"
+GCF_020745825.1	"https://42basepairs.com/download/s3/genomeark/species/Agelaius_phoeniceus/bAgePho1/genomic_data/pacbio_hifi/m64330e_221114_184840.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Agelaius_phoeniceus/bAgePho1/genomic_data/pacbio_hifi/m64330e_221116_140955.hifi_reads.bam"
+GCF_036250125.1	https://42basepairs.com/download/s3/genomeark/species/Dixiphia_pipra/bDixPip1/genomic_data/pacbio_hifi/m54306Ue_220703_141129.hifi_reads.bc1020--bc1020.bam
+GCF_037157495.1	https://42basepairs.com/download/s3/genomeark/species/Lathamus_discolor/bLatDis1/genomic_data/pacbio_hifi/m64055e_221206_091356.hifi_reads.bam
+GCF_929443795.1	https://42basepairs.com/download/s3/genomeark/species/Accipiter_gentilis/bAccGen1/genomic_data/pacbio_hifi/m64221e_210510_024224.ccs.bc1021_BAK8B_OA--bc1021_BAK8B_OA.bam
+GCF_030936135.1	"https://42basepairs.com/download/s3/genomeark/species/Gavia_stellata/bGavSte3/genomic_data/pacbio_hifi/m64330e_220929_153519.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Gavia_stellata/bGavSte3/genomic_data/pacbio_hifi/m64334e_221005_170430.hifi_reads.bam"
+GCF_028500815.1	"https://42basepairs.com/download/s3/genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/pacbio_hifi/m64330e_220202_202307.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Rissa_tridactyla/bRisTri1/genomic_data/pacbio_hifi/m64334e_220124_201227.hifi_reads.bam"
+GCF_036013445.1	https://42basepairs.com/download/s3/genomeark/species/Caloenas_nicobarica/bCalNic1/genomic_data/pacbio_hifi/m84091_230616_163944_s2.hifi_reads.bc1019.bam
+GCF_036971685.1	"https://42basepairs.com/download/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/m64330e_230310_183553.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Patagioenas_fasciata/bPatFas1/genomic_data/pacbio_hifi/m64055e_230321_165824.hifi_reads.bam"
+GCF_036013475.1	"https://42basepairs.com/download/s3/genomeark/species/Columba_livia/bColLiv1/genomic_data/pacbio_hifi/m64330e_230617_155101.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Columba_livia/bColLiv1/genomic_data/pacbio_hifi/m64330e_230628_162449.hifi_reads.bam"
+GCF_036370855.1	https://42basepairs.com/download/s3/genomeark/species/Dromaius_novaehollandiae/bDroNov1/genomic_data/pacbio_hifi/m84091_230616_171051_s3.hifi_reads.bc1011.bam
+GCF_036417845.1	"https://42basepairs.com/download/s3/genomeark/species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/m54306Ue_230209_081220.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/m64334e_230413_080901.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Apteryx_mantelli/bAptMan1/genomic_data/pacbio_hifi/m64334e_230430_141916.hifi_reads.bam"
+GCF_028389875.1	"https://42basepairs.com/download/s3/genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/m54306Ue_211204_070706.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Rhea_pennata/bPtePen1/genomic_data/pacbio_hifi/m64334e_211211_055255.hifi_reads.bam"
+GCF_030867095.1	"https://42basepairs.com/download/s3/genomeark/species/Alligator_mississippiensis/rAllMis1/genomic_data/pacbio_hifi/m54306Ue_221121_033625.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Alligator_mississippiensis/rAllMis1/genomic_data/pacbio_hifi/m54306Ue_221128_200454.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Alligator_mississippiensis/rAllMis1/genomic_data/pacbio_hifi/m64055e_221016_050500.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Alligator_mississippiensis/rAllMis1/genomic_data/pacbio_hifi/m64055e_221208_043940.hifi_reads.bam"
+GCF_028017835.1	"https://42basepairs.com/download/s3/genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/m54306Ue_210920_232907.reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/m54306Ue_211004_142258.reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/m54306Ue_211005_233142.reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Emys_orbicularis/rEmyOrb1/genomic_data/pacbio_hifi/m64334e_211008_164547.reads.bam"
+GCF_035149785.1	"https://42basepairs.com/download/s3/genomeark/species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/m54306Ue_220615_032330.reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/m64330e_220605_040923.reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Candoia_aspera/rCanAsp1/genomic_data/pacbio_hifi/m64330e_220610_182209.reads.bam"
+GCF_031021105.1	"https://42basepairs.com/download/s3/genomeark/species/Erythrolamprus_reginae/rEryReg1/genomic_data/pacbio_hifi/m54306Ue_211016_070813.reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Erythrolamprus_reginae/rEryReg1/genomic_data/pacbio_hifi/m54306Ue_211020_191957.reads.bam"
+GCF_037176765.1	"https://42basepairs.com/download/s3/genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/pacbio_hifi/m64334e_230208_171737.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Anolis_sagrei/rAnoSag1/genomic_data/pacbio_hifi/m64334e_230303_142841.hifi_reads.bam"
+GCF_963506605.1	https://42basepairs.com/download/s3/genomeark/species/Zootoca_vivipara/rZooViv1/genomic_data/pacbio_hifi/m64097e_230208_181045.ccs.bc1009_BAK8A_OA--bc1009_BAK8A_OA.bam
+GCF_030035675.1	"https://42basepairs.com/download/s3/genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/m54306Ue_230215_193810.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/m64330e_230205_160206.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Rhineura_floridana/rRhiFlo1/genomic_data/pacbio_hifi/m64334e_230210_124101.hifi_reads.bam"
+GCF_029931775.1	"https://42basepairs.com/download/s3/genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/pacbio_hifi/m64055e_220702_050304.hifi_reads.bc1012--bc1012.bam 
+https://42basepairs.com/download/s3/genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/pacbio_hifi/m64330e_220706_183330.hifi_reads.bc1012--bc1012.bam 
+https://42basepairs.com/download/s3/genomeark/species/Euleptes_europaea/rEulEur1/genomic_data/pacbio_hifi/m64330e_220708_052705.hifi_reads.bc1012--bc1012.bam"
+GCF_036172605.1	"https://42basepairs.com/download/s3/genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/m54345U_230210_144825.ccs.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/m54345U_230211_235610.ccs.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/m64046_230118_141257.ccs.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pelobates_fuscus/aPelFus1/genomic_data/pacbio_hifi/m64046_230206_122347.ccs.bam"
+GCF_027358695.1	"https://42basepairs.com/download/s3/genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/m54306Ue_211209_200800.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Spea_bombifrons/aSpeBom1/genomic_data/pacbio_hifi/m64334e_211213_205639.hifi_reads.bam"
+GCF_040937935.1	https://42basepairs.com/download/s3/genomeark/species/Hyperolius_riggenbachi/aHypRig1/genomic_data/pacbio_hifi/m84091_240226_225525_s3.hifi_reads.bc1018.bam
+GCF_028390025.1	"https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64330e_211026_195904.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64330e_211028_055049.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64330e_211119_062428.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64330e_211120_155549.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64330e_211122_025300.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64330e_211211_060324.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64330e_211217_065618.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64330e_211218_161053.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64330e_211220_013123.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Pseudophryne_corroboree/aPseCor3/genomic_data/pacbio_hifi/m64334e_211019_190122.hifi_reads.bam"
+GCF_036373705.1	"https://42basepairs.com/download/s3/genomeark/species/Amia_calva/fAmiCal2/genomic_data/pacbio_hifi/m84091_231011_172229_s3.hifi_reads.bc1002.bam 
+https://42basepairs.com/download/s3/genomeark/species/Amia_calva/fAmiCal2/genomic_data/pacbio_hifi/m84091_231019_190625_s2.hifi_reads.bc1002.bam"
+GCF_040954835.1	https://42basepairs.com/download/s3/genomeark/species/Lepisosteus_oculatus/fLepOcu1/genomic_data/pacbio_hifi/m84091_240223_215749_s2.hifi_reads.bc1018.bam
+GCF_963514075.1	https://42basepairs.com/download/s3/genomeark/species/Conger_conger/fConCon1/genomic_data/pacbio_hifi/m64229e_221118_162456.ccs.bc1019_BAK8B_OA--bc1019_BAK8B_OA.bam
+GCF_963854185.1	https://42basepairs.com/download/s3/genomeark/species/Sardina_pilchardus/fSarPil1/genomic_data/pacbio_hifi/m64178e_230211_031459.ccs.bc1015_BAK8B_OA--bc1015_BAK8B_OA.bam
+GCF_963082965.1	https://42basepairs.com/download/s3/genomeark/species/Carassius_carassius/fCarCar2/genomic_data/pacbio_hifi/m64229e_221219_015411.ccs.bc1022_BAK8B_OA--bc1022_BAK8B_OA.rmdup.bam
+GCF_029633855.1	"https://42basepairs.com/download/s3/genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/m54306Ue_220630_175543.hifi_reads.bc1019--bc1019.bam 
+https://42basepairs.com/download/s3/genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/m64330e_220625_014336.hifi_reads.bc1019--bc1019.bam 
+https://42basepairs.com/download/s3/genomeark/species/Hoplias_malabaricus/fHopMal1/genomic_data/pacbio_hifi/m64334e_220630_174922.hifi_reads.bc1019--bc1019.bam"
+GCF_027579695.1	"https://42basepairs.com/download/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/m54306Ue_210810_192942.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/m64055e_210902_013145.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/m64055e_211026_201650.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/m64330e_211022_162134.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/m64334e_211004_150650.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Neoarius_graeffei/fNeoGra1/genomic_data/pacbio_hifi/m64334e_211006_001717.hifi_reads.bam"
+GCF_030014385.1	"https://42basepairs.com/download/s3/genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/pacbio_hifi/m64055e_221019_155144.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Trichomycterus_rosablanca/fTriRos1/genomic_data/pacbio_hifi/m64330e_221012_155415.hifi_reads.bam"
+GCF_963692335.1	https://42basepairs.com/download/s3/genomeark/species/Osmerus_eperlanus/fOsmEpe2/genomic_data/pacbio_hifi/m64097e_230130_060049.ccs.bc1012_BAK8A_OA--bc1012_BAK8A_OA.bam
+GCF_914725855.1	"https://42basepairs.com/download/s3/genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/m64174e_210422_164206.ccs.bc1008_BAK8A_OA--bc1008_BAK8A_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/m64174e_210423_225115.ccs.bc1009_BAK8A_OA--bc1009_BAK8A_OA.bam 
+https://42basepairs.com/download/s3/genomeark/species/Thunnus_albacares/fThuAlb1/genomic_data/pacbio_hifi/m64222e_210429_153503.ccs.bc1009_BAK8A_OA--bc1009_BAK8A_OA.bam"
+GCF_027409825.1	https://42basepairs.com/download/s3/genomeark/species/Scomber_japonicus/fScoJap1/genomic_data/pacbio_hifi/m64055e_210912_004152.hifi_reads.bam
+GCF_949316205.1	https://42basepairs.com/download/s3/genomeark/species/Platichthys_flesus/fPlaFle2/genomic_data/pacbio_hifi/m64228e_230205_144241.ccs.bc1015_BAK8B_OA--bc1015_BAK8B_OA.bam
+GCF_963584025.1	https://42basepairs.com/download/s3/genomeark/species/Labrus_mixtus/fLabMix1/genomic_data/pacbio_hifi/m64016e_230228_185717.ccs.bc1003_BAK8A_OA--bc1003_BAK8A_OA.bam
+GCF_039877785.1	"https://42basepairs.com/download/s3/genomeark/species/Chaetodon_trifascialis/fChaTrf1/genomic_data/pacbio_hifi/m64334e_230324_153809.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Chaetodon_trifascialis/fChaTrf1/genomic_data/pacbio_hifi/m64334e_230409_141510.hifi_reads.bam"
+GCF_949316345.1	https://42basepairs.com/download/s3/genomeark/species/Pungitius_pungitius/fPunPun2/genomic_data/pacbio_hifi/m64178e_230122_111455.ccs.bc1008_BAK8A_OA--bc1008_BAK8A_OA.bam
+GCF_036365525.1	"https://42basepairs.com/download/s3/genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/m54306Ue_221107_195357.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/m54306Ue_221109_145933.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/m54306Ue_221117_124623.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/m64055e_220905_132707.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/m64330e_230109_055405.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/m64334e_221026_182611.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heterodontus_francisci/sHetFra1/genomic_data/pacbio_hifi/m64334e_221115_174730.hifi_reads.bam"
+GCF_035084215.1	"https://42basepairs.com/download/s3/genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/pacbio_hifi/m54306Ue_230207_124916.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/pacbio_hifi/m54306Ue_230305_160919.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/pacbio_hifi/m54306Ue_230307_114248.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/pacbio_hifi/m54306Ue_230309_071541.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/pacbio_hifi/m64055e_230314_183802.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Heptranchias_perlo/sHepPer1/genomic_data/pacbio_hifi/m64330e_230321_171818.hifi_reads.bam"
+GCF_044704955.1	"https://42basepairs.com/download/s3/genomeark/species/Pristiophorus_japonicus/sPriJap1/genomic_data/pacbio_hifi/m84091_231011_165210_s2.hifi_reads.bc1016.bam
+https://42basepairs.com/download/s3/genomeark/species/Pristiophorus_japonicus/sPriJap1/genomic_data/pacbio_hifi/m84091_231019_180500_s4.hifi_reads.bc1016.bam
+https://42basepairs.com/download/s3/genomeark/species/Pristiophorus_japonicus/sPriJap1/genomic_data/pacbio_hifi/m84091_231019_183519_s1.hifi_reads.bc1009.bam
+https://42basepairs.com/download/s3/genomeark/species/Pristiophorus_japonicus/sPriJap1/genomic_data/pacbio_hifi/m84091_240222_221018_s3.hifi_reads.bc1016.bam
+https://42basepairs.com/download/s3/genomeark/species/Pristiophorus_japonicus/sPriJap1/genomic_data/pacbio_hifi/m84091_240507_195357_s1.hifi_reads.bc1016.bam
+https://42basepairs.com/download/s3/genomeark/species/Pristiophorus_japonicus/sPriJap1/genomic_data/pacbio_hifi/m84203_240503_200716_s2.hifi_reads.bc1016.bam
+https://42basepairs.com/download/s3/genomeark/species/Pristiophorus_japonicus/sPriJap1/genomic_data/pacbio_hifi/m84203_240513_221223_s2.hifi_reads.bc1016.bam"
+GCF_036971445.1	"https://42basepairs.com/download/s3/genomeark/species/Narcine_bancroftii/sNarBan1/genomic_data/pacbio_hifi/m54306Ue_221119_080816.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Narcine_bancroftii/sNarBan1/genomic_data/pacbio_hifi/m54306Ue_221130_165948.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Narcine_bancroftii/sNarBan1/genomic_data/pacbio_hifi/m64334e_221206_092912.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Narcine_bancroftii/sNarBan1/genomic_data/pacbio_hifi/m64334e_221208_045849.hifi_reads.bam 
+https://42basepairs.com/download/s3/genomeark/species/Narcine_bancroftii/sNarBan1/genomic_data/pacbio_hifi/m64334e_230216_162609.hifi_reads.bam"
+GCF_037176945.1	"https://42basepairs.com/download/s3/genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/m84091_231205_223316_s2.hifi_reads.bc1017.bam 
+https://42basepairs.com/download/s3/genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/m84091_231207_193740_s4.hifi_reads.bc1017.bam 
+https://42basepairs.com/download/s3/genomeark/species/Latimeria_chalumnae/fLatCha1/genomic_data/pacbio_hifi/m84091_231207_200801_s1.hifi_reads.bc1017.bam"
