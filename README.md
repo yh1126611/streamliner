@@ -15,7 +15,7 @@ Alternatively, streamliner can also be built locally using conda recipe followin
 
         conda install conda-build
 
-* Download [streamliner.sh](streamliner.sh), [build.sh](build.sh) and [meta.yaml](meta.yaml) and move them all under a same directory.
+* Download [streamliner.sh](conda/streamliner.sh), [build.sh](conda/build.sh) and [meta.yaml](conda/meta.yaml) and move them all under a same directory.
 * After moving to the same directory, build package:
 
         conda build .
@@ -26,9 +26,9 @@ Alternatively, streamliner can also be built locally using conda recipe followin
 
 ## Input preparation
 
-1. Create a __species information table__ comprising every species you wish to analyze by obtaining their RefSeq accession ID from [NCBI Database](https://www.ncbi.nlm.nih.gov/) and 42basepairs download links for their raw PacBio HiFi reads (BAM) from [GenomeArk](https://www.genomeark.org/) and parsing them into a two-column table-format file (e.g. excel sheet). Every row pertains to one species and two columns each pertain to accession ID and download links, respectively. Multiple BAM files (thus, multiple download links) may be associated with one species, in which case, they should be separated by newlines (\n) inside a single cell. ![Diagram of input preparation](input_prep_1.png?raw=true "Diagram of input preparation")  
-  Schematic format of a species information table: ![Species information table format](species_information_table_format.png?raw=true "Species information table format")  
-  Example of a species information table: ![Species information table example](species_information_table_example.png?raw=true "Example of a species information table")
+1. Create a __species information table__ comprising every species you wish to analyze by obtaining their RefSeq accession ID from [NCBI Database](https://www.ncbi.nlm.nih.gov/) and 42basepairs download links for their raw PacBio HiFi reads (BAM) from [GenomeArk](https://www.genomeark.org/) and parsing them into a two-column table-format file (e.g. excel sheet). Every row pertains to one species and two columns each pertain to accession ID and download links, respectively. Multiple BAM files (thus, multiple download links) may be associated with one species, in which case, they should be separated by newlines (\n) inside a single cell. ![Diagram of input preparation](img/input_prep_1.png?raw=true "Diagram of input preparation")  
+  Schematic format of a species information table: ![Species information table format](img/species_information_table_format.png?raw=true "Species information table format")  
+  Example of a species information table: ![Species information table example](img/species_information_table_example.png?raw=true "Example of a species information table")
 
 2. Export the species information table into a tab-delimited text format. Columns are separated by tabs (\t) and rows are separated by newlines (\n). A multi-line cell with multiple links which are also separated by newlines (\n) are enclosed by double quotes (").  
    Example arrangement of a species information table in text format:
@@ -41,8 +41,8 @@ Alternatively, streamliner can also be built locally using conda recipe followin
         <Link2_2>
         <Link2_3>
         <Link2_n>"  
-   Schematic diagram of a species information table in text format: ![Schematic diagram of a species table converted to text format](species_information_table_txt_format.png?raw=true "Schematic diagram of a species table converted to text format")  
-   Example of a species information table converted to a text format: ![Example of a species information table in text format](species_information_table_txt_example.png?raw=true "Example of a species information table in text format")
+   Schematic diagram of a species information table in text format: ![Schematic diagram of a species table converted to text format](img/species_information_table_txt_format.png?raw=true "Schematic diagram of a species table converted to text format")  
+   Example of a species information table converted to a text format: ![Example of a species information table in text format](img/species_information_table_txt_example.png?raw=true "Example of a species information table in text format")
 
 ## Sample input
 [species_information.txt](species_information.txt) is a functional input to streamliner comprising GenomeArk download links to all VGP-sequenced species for which BAM files with kinetics tags exist (78).
