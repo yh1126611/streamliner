@@ -45,7 +45,7 @@ Alternatively, streamliner can also be built locally using conda recipe followin
    Example of a species information table converted to a text format: ![Example of a species information table in text format](img/species_information_table_txt_example.png?raw=true "Example of a species information table in text format")
 
 ## Sample input
-[species_information.txt](input/species_information.txt) is a functional input to streamliner comprising GenomeArk download links to all VGP-sequenced species for which BAM files with kinetics tags exist (78).
+[This text-converted species information table](input/species_information.txt) is a functional input to streamliner comprising GenomeArk download links to all VGP-sequenced species for which BAM files with kinetics tags exist (78).
 
 ## Usage
 
