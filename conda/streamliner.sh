@@ -40,7 +40,7 @@ if [[ "$1" == "--help" ]]; then
     echo "                        [Default 100]"
     echo "-p, --partial   INT     Value between 1 and 10 indicating which stage"
     echo "                        to start process if pipeline is to be run"
-    echo "                        partially [Default 1 (Complete pipeline)]"
+    echo "                        partially [Default 0 (Complete pipeline)]"
     echo ""
 fi
 
@@ -130,7 +130,7 @@ if [[ -n "$type_string" && ! "$type_string" =~ ^(gene|transcript|mRNA)$ ]]; then
   exit 1
 fi
 
-if [ "$partial" -le 1 ]; then
+if [ "$partial" -le 0 ]; then
 	# Extract accession numbers
 	awk -v FS=" " -v OFS="\t" '$1~/^GCF/{print $1}' "$read_links" | while read accession; do
 		echo $accession >> accession.txt
