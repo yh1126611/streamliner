@@ -79,4 +79,5 @@ streamliner [OPTIONS] <species_information>
      Note: For a partial run, intermediate files of all preceeding stages for every constituent in the input species information must exist in respective folders.
 
 ## Notes
+* 42basepairs should be used as opposed to s3 for download links in species information input.
 * Sorting part of the pipeline comprises dividing the BAM file into smaller files of size permitted by maximum memory (maxMem) allocated to process. A smaller maxMem will require dividing the BAM file into more number of files. Too many files may breach the system’s limit for number of open files. Therefore, maxMem to process must be smaller than available memory but large enough to allow the BAM file to be split into a number less than the maximum number of open files. Check your system-permitted capacity for number of open files by `ulimit -n` and available memory by `free -mh` and allocate maxMem to streamliner accordingly using `-m` option. The default is set to maximum value `99G` which can be larger than available memory of some systems depending on number of simultaneous users and processes.
