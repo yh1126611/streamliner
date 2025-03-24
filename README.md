@@ -53,18 +53,25 @@ streamliner [OPTIONS] <species_information>
 
 ## Options
 
-0. Download input (Conduct whole pipeline)
-1. Merging (Engine: samtools)
-2. Extracting HiFi (Engine: pbtk)
-3. Modification-calling (Engine: pbjasmine)
-4. Alignment (Engine: pbmm2)
-5. Sorting (Engine: samtools)
-6. Indexing (Engine: samtools)
-7. Modification probability (MP) computation (Engine: pb-cpg-tools)
-8. Extraction of MP at transcription start sites (TSS) & transcription termination sites (TES) (Engine: 
-9. GC content calculation (Engine: streamgc)
-10. Calculation of default BpB (CpC, CpG, GpC, GpG) contents (Engine: streambpb)
+* `-p`: Conduct streamliner partially by specifying an intermediate stage to start the pipeline.  
+
+     ０. Download input (Conduct whole pipeline) [Default]  
+     １. Merging (Engine: samtools)  
+     ２. Extracting HiFi (Engine: pbtk)  
+     ３. Modification-calling (Engine: pbjasmine)  
+     ４. Alignment (Engine: pbmm2)  
+     ５. Sorting (Engine: samtools)  
+     ６. Indexing (Engine: samtools)  
+     ７. Modification probability (MP) computation (Engine: pb-cpg-tools)  
+     ８. Extraction of MP at transcription start sites (TSS) & transcription termination sites (TES)  
+     ９. GC content calculation (Engine: streamgc)  
+     10. Calculation of default BpB (CpC, CpG, GpC, GpG) contents (Engine: streambpb)  
+
+     Note: To run partially, all preceeding stages for every constituent in the input species information must be completed and their intermediate files must exist in respective folders.
+
+
+
+
 
 ## Notes
-* To run partially, all preceeding stages for every constituent in the input species information must be completed and their intermediate files must exist in respective folders, appropriately named.
 * Sorting part of the pipeline comprises dividing the BAM file into smaller files of size permitted by maximum memory (maxMem) allocated to process. A smaller maxMem will require dividing the BAM file into more number of files. Too many files may breach the system’s limit for number of open files. Therefore, maxMem to process must be smaller than available memory but large enough to allow the BAM file to be split into a number less than the maximum number of open files. Check your system-permitted capacity for number of open files by `ulimit -n` and available memory by `free -mh` and allocate maxMem to streamliner accordingly using `-m` option. The default is set to maximum value `99G` which can be larger than available memory of some systems depending on number of simultaneous users and processes.
