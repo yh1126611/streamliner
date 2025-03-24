@@ -3,7 +3,7 @@
 if [[ "$1" == "--help" ]]; then
     echo ""
     echo "Program:        streamliner"
-    echo "Version:        1.0.0"
+    echo "Version:        1.1.0"
     echo "Code:           https://github.com/yh1126611/streamliner"
     echo ""
     echo "Description:"
