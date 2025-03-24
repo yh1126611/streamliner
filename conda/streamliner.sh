@@ -202,13 +202,13 @@ awk -v FS="\t|/" -v OFS="\t" '$1~/^GCF/{print $10}' "$read_links" | while read -
 		gzip -df *.bed.gz
 		awk -v FS="\t" -v OFS="\t" '$1!~"^#"{print $1, $2, $3, $4}' *combined.bed > CG.mp
 	fi
-	if [ "$partial" -le 8]; then
+	if [ "$partial" -le 8 ]; then
 		bedtools intersect -wo -a CG.mp -b <(awk -v type_string="$type_string" -v FS="\t" -v OFS="\t" '{if($7~/^\+$/&&$3==type_string){print $1, $4, $7} else if($7~/^\-$/&&$3==type_string){print $1, $5, $7}}' *.gtf | sort -n | uniq | awk -v FS="\t" -v OFS="\t" '{print $1, $2-10000, $2+10000, $3}' | awk -v FS="\t" -v OFS="\t" '{if($2<0){print $1, 0, $3, $2+10000, $4}else{print $1, $2, $3, $2+10000, $4}}') | awk -v FS="\t" -v OFS="" '{print $5, ".", $8, "\t", $2-$8, "\t", $4, "\t", $9}' > MP_TSS_"$col1".tsv
 		bedtools intersect -wo -a CG.mp -b <(awk -v type_string="$type_string" -v FS="\t" -v OFS="\t" '{if($7~/^\+$/&&$3==type_string){print $1, $5, $7} else if($7~/^\-$/&&$3==type_string){print $1, $4, $7}}' *.gtf | sort -n | uniq | awk -v FS="\t" -v OFS="\t" '{print $1, $2-10000, $2+10000, $3}' | awk -v FS="\t" -v OFS="\t" '{if($2<0){print $1, 0, $3, $2+10000, $4}else{print $1, $2, $3, $2+10000, $4}}') | awk -v FS="\t" -v OFS="" '{print $5, ".", $8, "\t", $2-$8, "\t", $4, "\t", $9}' > MP_TES_"$col1".tsv
 		sed -i '/^NC/!d' MP_TSS_"$col1".tsv
 		sed -i '/^NC/!d' MP_TES_"$col1".tsv
 	fi
-	if [ "$partial" -le 9]; then
+	if [ "$partial" -le 9 ]; then
 		awk -v type_string="$type_string" -v FS="\t" -v OFS="\t" '{if($7~/^\+$/&&$3==type_string){print $1, $4, $7} else if($7~/^\-$/&&$3==type_string){print $1, $5, $7}}' *.gtf | sort | uniq > TSS.txt
 		awk -v type_string="$type_string" -v FS="\t" -v OFS="\t" '{if($7~/^\+$/&&$3==type_string){print $1, $5, $7} else if($7~/^\-$/&&$3==type_string){print $1, $4, $7}}' *.gtf | sort | uniq > TES.txt
 		sed -i '/^NC/!d' TSS.txt
@@ -216,7 +216,7 @@ awk -v FS="\t|/" -v OFS="\t" '$1~/^GCF/{print $10}' "$read_links" | while read -
 		streamgc *.fasta TSS.txt GC_TSS_"$col1".tsv
 		streamgc *.fasta TES.txt GC_TES_"$col1".tsv
 	fi
-	if [ "$partial" -le 10]; then
+	if [ "$partial" -le 10 ]; then
 		streambpb -b CC -w "$window_size" -i "$interval_size" *.fasta TSS.txt CpC_TSS_"$col1".tsv
 		streambpb -b CC -w "$window_size" -i "$interval_size" *.fasta TES.txt CpC_TES_"$col1".tsv
 		streambpb -b CG -w "$window_size" -i "$interval_size" *.fasta TSS.txt CpG_TSS_"$col1".tsv
