@@ -76,7 +76,7 @@ streamliner [OPTIONS] <species_information>
      ９- GC content calculation (Engine: [streamGC](https://github.com/yh1126611/streamGC))  
      10 - Calculation of default BpB (CpC, CpG, GpC, GpG) contents (Engine: [streamBpB](https://github.com/yh1126611/streamBpB))  
 
-     Note: For a partial run, intermediate files of all preceeding stages for every constituent in the input species information must exist in respective folders.
+     Note: For a partial run, intermediate files from all preceeding stages for every constituent in the input species information must exist in respective folders, appropriately-named.
 
 ## Notes
 * 42basepairs should be used as opposed to s3 for download links in species information input.
