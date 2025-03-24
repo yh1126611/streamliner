@@ -1,6 +1,6 @@
 # streamliner
 
-Streamline from assembly, annotation and raw reads to modification probability score information on transcription start/end sites (TSS/TES). Output may be used as data for visualization in R.
+Streamline from assembly, annotation and raw reads to modification probability (MP) score information on transcription start & termination sites (TSS/TES). Output may be used as data for visualization in R.
 
 ## Installation
 ### Conda
@@ -53,25 +53,30 @@ streamliner [OPTIONS] <species_information>
 
 ## Options
 
-* `-p`: Conduct streamliner partially by specifying an intermediate stage to start the pipeline.  
+* `-t`: Set feature to use as locational indicator for TSS/TES [Default "gene"]
 
-     ０. Download input (Conduct whole pipeline) [Default]  
-     １. Merging (Engine: samtools)  
-     ２. Extracting HiFi (Engine: pbtk)  
-     ３. Modification-calling (Engine: pbjasmine)  
-     ４. Alignment (Engine: pbmm2)  
-     ５. Sorting (Engine: samtools)  
-     ６. Indexing (Engine: samtools)  
-     ７. Modification probability (MP) computation (Engine: pb-cpg-tools)  
-     ８. Extraction of MP at transcription start sites (TSS) & transcription termination sites (TES)  
-     ９. GC content calculation (Engine: streamgc)  
-     10. Calculation of default BpB (CpC, CpG, GpC, GpG) contents (Engine: streambpb)  
+* `-m`: Set maximum memory allocated for sorting process. Suffixes K/M/G are accepted [Default 99G]
 
-     Note: To run partially, all preceeding stages for every constituent in the input species information must be completed and their intermediate files must exist in respective folders.
+* `-i`: Set furthest distance from TSS/TES to be analyzed for MP (i.e. interval ÷ 2) (bp) [Default 10,000]
 
+* `-w`: Set size of window inside interval to calculate GC and BpB contents (bp) [Default 100]  
+     Note: Window size (`-w`) must be smaller than half of interval size (`-i`).
 
+* `-p`: Run streamliner partially by entering a unique value to specify a stage to start the pipeline. The unique values for each stage are as follows:
 
+     ０- Downloading input (i.e. complete pipeline) [Default]  
+     １- Merging (Engine: [samtools merge](https://www.htslib.org/doc/samtools-merge.html))  
+     ２- Extracting HiFi (Engine: [pbtk](https://github.com/PacificBiosciences/pbtk))  
+     ３- Modification-calling (Engine: [pbjasmine](https://github.com/PacificBiosciences/jasmine))  
+     ４- Alignment (Engine: [pbmm2](https://github.com/PacificBiosciences/pbmm2))  
+     ５- Sorting (Engine: [samtools sort](https://www.htslib.org/doc/samtools-sort.html))  
+     ６- Indexing (Engine: [samtools index](https://www.htslib.org/doc/samtools-index.html))  
+     ７- Modification probability (MP) computation (Engine: [pb-cpg-tools](https://github.com/PacificBiosciences/pb-CpG-tools))  
+     ８- Extraction of MP at transcription start sites (TSS) & transcription termination sites (TES)  
+     ９- GC content calculation (Engine: [streamGC](https://github.com/yh1126611/streamGC))  
+     10 - Calculation of default BpB (CpC, CpG, GpC, GpG) contents (Engine: [streamBpB](https://github.com/yh1126611/streamBpB))  
 
+     Note: For a partial run, intermediate files of all preceeding stages for every constituent in the input species information must exist in respective folders.
 
 ## Notes
 * Sorting part of the pipeline comprises dividing the BAM file into smaller files of size permitted by maximum memory (maxMem) allocated to process. A smaller maxMem will require dividing the BAM file into more number of files. Too many files may breach the system’s limit for number of open files. Therefore, maxMem to process must be smaller than available memory but large enough to allow the BAM file to be split into a number less than the maximum number of open files. Check your system-permitted capacity for number of open files by `ulimit -n` and available memory by `free -mh` and allocate maxMem to streamliner accordingly using `-m` option. The default is set to maximum value `99G` which can be larger than available memory of some systems depending on number of simultaneous users and processes.
