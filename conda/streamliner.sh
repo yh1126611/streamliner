@@ -42,6 +42,7 @@ if [[ "$1" == "--help" ]]; then
     echo "                        to start process if pipeline is to be run"
     echo "                        partially [Default 0 (Complete pipeline)]"
     echo ""
+    exit 0
 fi
 
 # Initialize defaults
