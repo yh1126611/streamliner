@@ -186,4 +186,5 @@ awk -v FS="\t|/" -v OFS="\t" '$1~/^GCF/{print $10}' "$read_links" | while read -
 	streambpb -b GC -w "$window_size" -i "$interval_size" *.fasta TES.txt GpC_TES_"$col1".tsv
 	streambpb -b GG -w "$window_size" -i "$interval_size" *.fasta TSS.txt GpG_TSS_"$col1".tsv
 	streambpb -b GG -w "$window_size" -i "$interval_size" *.fasta TES.txt GpG_TES_"$col1".tsv
+ 	cd ..
 done
