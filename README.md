@@ -60,7 +60,7 @@ streamliner [OPTIONS] <species_information>
 * `-i`: Set furthest distance from TSS/TES to be analyzed for MP (i.e. interval ÷ 2) (bp) [Default 10,000]
 
 * `-w`: Set size of window inside interval to calculate GC and BpB contents (bp) [Default 100]  
-     Note: Window size (`-w`) must be smaller than half of interval size (`-i`).
+     Note: `-w` (window size) must be smaller than `-i` (half of interval size).
 
 * `-p`: Run streamliner partially by entering a unique value to specify a stage to start the pipeline. The unique values for each stage are as follows:
 
