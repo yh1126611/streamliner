@@ -72,9 +72,9 @@ streamliner [OPTIONS] <species_information>
      ５- Sorting (Engine: [samtools sort](https://www.htslib.org/doc/samtools-sort.html))  
      ６- Indexing (Engine: [samtools index](https://www.htslib.org/doc/samtools-index.html))  
      ７- Modification probability (MP) computation (Engine: [pb-cpg-tools](https://github.com/PacificBiosciences/pb-CpG-tools))  
-     ８- Extraction of MP at transcription start sites (TSS) & transcription termination sites (TES)  
-     ９- GC content calculation (Engine: [streamGC](https://github.com/yh1126611/streamGC))  
-     10 - Calculation of default BpB (CpC, CpG, GpC, GpG) contents (Engine: [streamBpB](https://github.com/yh1126611/streamBpB))  
+     ８- Extraction of MP at transcription start sites (TSS) & transcription termination sites (TES) (Engine: [bedtools intersect](https://bedtools.readthedocs.io/en/latest/content/tools/intersect.html))  
+     ９- GC content calculation (Engine: [streamGC](https://github.com/yh1126611/streamGC), [samtools faidx](https://www.htslib.org/doc/samtools-faidx.html))  
+     10 - Calculation of default BpB (CpC, CpG, GpC, GpG) contents (Engine: [streamBpB](https://github.com/yh1126611/streamBpB), [samtools faidx](https://www.htslib.org/doc/samtools-faidx.html))  
 
      Note: For a partial run, intermediate files from all preceeding stages for every constituent in the input species information must exist in respective folders, appropriately-named.
 
