@@ -53,9 +53,9 @@ streamliner [OPTIONS] <species_information>
 
 ## Options
 
-* `-t`: Set feature to use as locational indicator for TSS/TES [Default "gene"]
+* `-t`: Set feature to use as locational indicator for TSS/TES [Default gene]
 
-* `-m`: Set maximum memory allocated for sorting process. Suffixes K/M/G are accepted [Default 99G]
+* `-m`: Set maximum memory allocated for sorting process. Suffixes K/M/G are accepted. Maximum is 99G. [Default 99G]
 
 * `-i`: Set furthest distance from TSS/TES to be analyzed for MP (i.e. interval ÷ 2) (bp) [Default 10,000]
 
@@ -80,4 +80,4 @@ streamliner [OPTIONS] <species_information>
 
 ## Notes
 * 42basepairs should be used as opposed to s3 for download links in species information input.
-* Sorting part of the pipeline comprises dividing the BAM file into smaller files of size permitted by maximum memory (maxMem) allocated to process. A smaller maxMem will require dividing the BAM file into more number of files. Too many files may breach the system’s limit for number of open files. Therefore, maxMem to process must be smaller than available memory but large enough to allow the BAM file to be split into a number less than the maximum number of open files. Check your system-permitted capacity for number of open files by `ulimit -n` and available memory by `free -mh` and allocate maxMem to streamliner accordingly using `-m` option. The default is set to maximum value `99G` which can be larger than available memory of some systems depending on number of simultaneous users and processes.
+* Sorting part of the pipeline comprises dividing the BAM file into smaller files of size permitted by maximum memory (maxMem) allocated to process. A smaller maxMem will require dividing the BAM file into more number of files. Too many files may breach the system’s limit for number of open files. Therefore, maxMem to process must be sufficiently large to allow the BAM file to be split into a number less than the maximum number of open files (preferably over 20G) while being smaller than available memory. Check your system-permitted capacity for number of open files by `ulimit -n` and available memory by `free -mh` and allocate maxMem to streamliner accordingly using `-m` option. The default is set to maximum value `99G` which can be larger than available memory of some systems depending on number of simultaneous users and processes in which case should be reduced.
