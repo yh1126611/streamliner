@@ -53,7 +53,7 @@ streamliner [OPTIONS] <species_information>
 
 ## Options
 
-* `-t`: Set feature to use as locational indicator for TSS/TES [Default gene]
+* `-t`: Set feature to use as locational indicator for TSS/TES. Possible choices are: gene [Default], transcript and mRNA.
 
 * `-m`: Set maximum memory allocated for sorting process. Suffixes K/M/G are accepted. Maximum is 99G. [Default 99G]
 
