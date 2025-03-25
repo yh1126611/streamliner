@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [[ "$1" == "--version" ]]; then
+    echo "Version 1.1.0"
+    exit 0
+fi
+
 if [[ "$1" == "--help" ]]; then
     echo ""
     echo "Program:        streamliner"
@@ -33,7 +38,7 @@ if [[ "$1" == "--help" ]]; then
     echo "                        TSS/TES [Default gene]"
     echo "-m              INT     Maximum memory allocated for sorting process."
     echo "                        Suffix K/M/G allowed. Cannot exceed 99G."
-    echo "                        [Default: 99G]"
+    echo "                        [Default 99G]"
     echo "-i, --interval  INT     Furthest distance from coordinate to be"
     echo "                        analyzed (bp) [Default 10,000]"
     echo "-w, --window    INT     Size of each window inside interval (bp)."
