@@ -32,11 +32,11 @@ Alternatively, streamliner can also be built locally from conda recipe following
 2. Export the species information table into a tab-delimited text format. Columns are separated by tabs (\t) and rows are separated by newlines (\n). A multi-line cell with multiple links which are also separated by newlines (\n) are enclosed by double quotes (").  
    Example arrangement of a species information table in text format:
   
-        <Accession1>  "<Link1_1>
+        <Accession1>	"<Link1_1>
         <Link1_2>
         <Link1_3>
         <Link1_n>"
-        <Accession2> "<Link2_1>
+        <Accession2>	"<Link2_1>
         <Link2_2>
         <Link2_3>
         <Link2_n>"  
