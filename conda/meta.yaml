@@ -1,6 +1,6 @@
 package:
   name: streamliner
-  version: 1.1.0
+  version: 1.2.0
   build:
     number: 0
     noarch: generic
@@ -19,6 +19,7 @@ requirements:
     - pbjasmine
     - pbmm2
     - pb-cpg-tools
+    - ncbi-datasets-cli
     - yh1126::streamgc
     - yh1126::streambpb
 test:
