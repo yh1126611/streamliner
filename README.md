@@ -24,9 +24,9 @@ Alternatively, streamliner can also be built locally from conda recipe following
 
         conda install --use-local streamliner
 
-## Input preparation
+## Input preparation (BURST)
+![Species information table format](img/burst.png?raw=true "BURST")
 
-(img/burst.png?raw=true "BURST")
 Input for streamliner is __BURST__, created as following:
 
 1. Create a table comprising RefSeq accession ID from [NCBI Database](https://www.ncbi.nlm.nih.gov/) and 42basepairs download links for their raw PacBio HiFi reads (BAM) from [GenomeArk](https://www.genomeark.org/) for every species you wish to analyze, parsed into a two-column table-format file (e.g. by MS Excel). Only BAM files with kinetics tags (`fi`, `fp`, `ri`, `rp`) generated from PacificBioscience's [5-base sequencing](https://www.pacb.com/wp-content/uploads/application-brief-measuring-dna-methylation-with-5-base-hifi-sequencing.pdf) feature may be included in input. Every row of the table corresponds to one species and two columns correspond to accession ID and download links, respectively. Multiple BAM files may be associated with one species, in which case, download links should be separated by newlines (\n) inside a single cell. ![Diagram of input preparation](img/input_prep_1.png?raw=true "Diagram of input preparation")  
