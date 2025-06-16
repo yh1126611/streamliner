@@ -46,7 +46,7 @@ Input for streamliner is __BURST__, created as following:
    Schematic diagram of a species information table in text format: ![Schematic diagram of a species table converted to text format](img/species_information_table_txt_format.png?raw=true "Schematic diagram of a species table converted to text format")  
 
 ## Sample input
-[This BURST](input/species_information.txt) is a functional input to streamliner comprising GenomeArk download links to all raw PacBio HiFi reads for every VGP-sequenced species for which BAM files with kinetics tags exist (78).
+[This BURST](input/BURST_sample.txt) is a functional input to streamliner comprising GenomeArk download links to all raw PacBio HiFi reads for every VGP-sequenced species for which BAM files with kinetics tags exist (78).
 
 ## Usage
 
