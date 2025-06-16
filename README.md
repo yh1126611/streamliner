@@ -65,9 +65,9 @@ streamliner [OPTIONS] <species_information>
 * `-w`: Set size of window inside interval to calculate GC and BpB contents (bp) [Default 100]  
      Note: `-w` (window size) must be smaller than `-i` (half of interval size).
 
-* `-p`: Run streamliner partially by entering a unique value to specify a stage to start the pipeline. The unique values for each stage are as follows:
+* `-p`: Run streamliner partially by entering two unique values to specify stages to start and end the pipeline. Default is 0, 10 (Complete pipeline). The unique values for each stage are as follows:
 
-     ０- Downloading input (i.e. complete pipeline) [Default]  
+     ０- Downloading input (i.e. complete pipeline) [Default start]  
      １- Merging (Engine: [samtools merge](https://www.htslib.org/doc/samtools-merge.html))  
      ２- Extracting HiFi (Engine: [pbtk](https://github.com/PacificBiosciences/pbtk))  
      ３- Modification-calling (Engine: [pbjasmine](https://github.com/PacificBiosciences/jasmine))  
@@ -77,7 +77,7 @@ streamliner [OPTIONS] <species_information>
      ７- Modification probability (MP) computation (Engine: [pb-cpg-tools](https://github.com/PacificBiosciences/pb-CpG-tools))  
      ８- Extraction of MP at transcription start sites (TSS) & transcription termination sites (TES) (Engine: [bedtools intersect](https://bedtools.readthedocs.io/en/latest/content/tools/intersect.html))  
      ９- GC content calculation (Engine: [streamGC](https://github.com/yh1126611/streamGC), [samtools faidx](https://www.htslib.org/doc/samtools-faidx.html))  
-     10 - Calculation of default BpB (CpC, CpG, GpC, GpG) contents (Engine: [streamBpB](https://github.com/yh1126611/streamBpB), [samtools faidx](https://www.htslib.org/doc/samtools-faidx.html))  
+     10 - Calculation of default BpB (CpC, CpG, GpC, GpG) contents (Engine: [streamBpB](https://github.com/yh1126611/streamBpB), [samtools faidx](https://www.htslib.org/doc/samtools-faidx.html)) [Default end] 
 
      Note: For a partial run, intermediate files from all preceeding stages for every constituent in the input species information must exist in respective folders, appropriately-named.
 
