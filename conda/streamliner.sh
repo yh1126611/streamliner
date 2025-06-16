@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ "$#" -eq 0 ]; then
+    "$0" --help
+    exit 0
+fi
+
 if [[ "$1" == "--version" ]]; then
     echo "Version 1.2.0"
     exit 0
@@ -19,7 +24,7 @@ if [[ "$1" == "--help" ]]; then
     echo "Usage:"
     echo "streamliner [OPTIONS] <BURST.txt|tsv>"
     echo ""
-    echo "<BURST>                 A two-column tab-delimited file with following"
+    echo "<BURST.txt|tsv>         A two-column tab-delimited file with following"
     echo "                        columns:"
     echo "                        1. NCBI RefSeq accession ID"
     echo "                        2. Links to PacBio HiFi sequencing reads on"
@@ -46,7 +51,7 @@ if [[ "$1" == "--help" ]]; then
     echo "-p, --partial   INT     Two values between 0 and 10 indicating which"
     echo "                        stages to start and end streamliner,"
     echo "                        respectively if pipeline is to be run"
-	echo "                        partially [Default 0, 10 (Complete pipeline)]"
+    echo "                        partially [Default 0, 10 (Complete pipeline)]"
     echo ""
     exit 0
 fi
@@ -78,11 +83,11 @@ while [[ $# -gt 0 ]]; do
             interval_size="$2"
             shift 2
             ;;
-		-p|--partial)
-    		partial_start="$2"
-    		partial_end="$3"
-			shift 3
-			;;
+	-p|--partial)
+            partial_start="$2"
+            partial_end="$3"
+            shift 3
+            ;;
         -*)
             echo "Invalid option: $1" >&2
             exit 1
