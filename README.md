@@ -26,7 +26,10 @@ Alternatively, streamliner can also be built locally from conda recipe following
 
 ## Input preparation
 
-1. Create a __species information table__ comprising every species you wish to analyze by obtaining their RefSeq accession ID from [NCBI Database](https://www.ncbi.nlm.nih.gov/) and 42basepairs download links for their raw PacBio HiFi reads (BAM) from [GenomeArk](https://www.genomeark.org/) and parsing them into a two-column table-format file (e.g. excel sheet). Only BAM files with kinetics tags (`fi`, `fp`, `ri`, `rp`) generated from PacificBioscience's [5-base sequencing](https://www.pacb.com/wp-content/uploads/application-brief-measuring-dna-methylation-with-5-base-hifi-sequencing.pdf) feature may be included in input. Every row of the table corresponds to one species and two columns correspond to accession ID and download links, respectively. Multiple BAM files may be associated with one species, in which case, download links should be separated by newlines (\n) inside a single cell. ![Diagram of input preparation](img/input_prep_1.png?raw=true "Diagram of input preparation")  
+(img/burst.png?raw=true "BURST")
+Input for streamliner is __BURST__, created as following:
+
+1. Create a table comprising RefSeq accession ID from [NCBI Database](https://www.ncbi.nlm.nih.gov/) and 42basepairs download links for their raw PacBio HiFi reads (BAM) from [GenomeArk](https://www.genomeark.org/) for every species you wish to analyze, parsed into a two-column table-format file (e.g. by MS Excel). Only BAM files with kinetics tags (`fi`, `fp`, `ri`, `rp`) generated from PacificBioscience's [5-base sequencing](https://www.pacb.com/wp-content/uploads/application-brief-measuring-dna-methylation-with-5-base-hifi-sequencing.pdf) feature may be included in input. Every row of the table corresponds to one species and two columns correspond to accession ID and download links, respectively. Multiple BAM files may be associated with one species, in which case, download links should be separated by newlines (\n) inside a single cell. ![Diagram of input preparation](img/input_prep_1.png?raw=true "Diagram of input preparation")  
   Schematic format of a species information table: ![Species information table format](img/species_information_table_format.png?raw=true "Species information table format")  
 
 2. Export the species information table into a tab-delimited text format. Columns are separated by tabs (\t) and rows are separated by newlines (\n). A multi-line cell with multiple links which are also separated by newlines (\n) are enclosed by double quotes (").  
@@ -43,7 +46,7 @@ Alternatively, streamliner can also be built locally from conda recipe following
    Schematic diagram of a species information table in text format: ![Schematic diagram of a species table converted to text format](img/species_information_table_txt_format.png?raw=true "Schematic diagram of a species table converted to text format")  
 
 ## Sample input
-[This text-converted species information table](input/species_information.txt) is a functional input to streamliner comprising GenomeArk download links to all raw PacBio HiFi reads for every VGP-sequenced species for which BAM files with kinetics tags exist (78).
+[This BURST](input/species_information.txt) is a functional input to streamliner comprising GenomeArk download links to all raw PacBio HiFi reads for every VGP-sequenced species for which BAM files with kinetics tags exist (78).
 
 ## Usage
 
