@@ -51,7 +51,7 @@ Input for streamliner is __BURST__, a text file representing table of all data r
 ## Usage
 
 ```
-streamliner [OPTIONS] <species_information>
+streamliner [OPTIONS] <BURST>
 ```
 
 ## Options
@@ -65,7 +65,7 @@ streamliner [OPTIONS] <species_information>
 * `-w`: Set size of window inside interval to calculate GC and BpB contents (bp) [Default 100]  
      Note: `-w` (window size) must be smaller than `-i` (half of interval size).
 
-* `-p`: Run streamliner partially by entering two unique values to specify stages to start and end the pipeline. Default is 0 10 (Complete pipeline). The unique values for each stage are as follows:
+* `-p`: Run streamliner partially by entering two unique values to specify stages to start and end the pipeline. Default is 0 and 10 (Complete pipeline). The unique values for each stage are as follows:
 
      ０- Downloading input (i.e. complete pipeline) [Default start]  
      １- Merging (Engine: [samtools merge](https://www.htslib.org/doc/samtools-merge.html))  
